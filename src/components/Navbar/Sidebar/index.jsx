@@ -18,7 +18,7 @@ const Sidebar = () => {
                         <i className="fa-brands fa-linkedin"></i>
                     </a>
                 </li>
-                <li>
+                <li> 
                     <a href="https://github.com/Svyat0x7b" className="social-link">
                         <i className="fa-brands fa-github"></i>
                     </a>

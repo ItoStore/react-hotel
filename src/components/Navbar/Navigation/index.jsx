@@ -17,7 +17,7 @@ const Navigation = () => {
                     <button className="navigation-search-btn">
                         <i className="fa-solid fa-magnifying-glass"></i>
                     </button>
-                </form>
+                </form> 
             </div>
             <ul className="navigation-list">
                 {NAVLINKLIST.map((link) => (

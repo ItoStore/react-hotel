@@ -11,7 +11,7 @@ const Customers = () => {
                 <div className="underline">
                     <div className="small-underline"></div>
                     <div className="big-underline"></div>
-                </div>
+                </div> 
             </div>
             <p className="customers-paragraph">
                 Aliqua amet sunt anim velit commodo irure officia sunt commodo ad.

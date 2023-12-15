@@ -7,7 +7,7 @@ import vipImg from '../../img/vip.jpeg';
 
 const Rooms = () => {
     const navigate = useNavigate();
-    return (
+    return ( 
         <section className="rooms">
             <div className="common-header">
                 <h1 className="common-heading">Rooms in React Hotel</h1>

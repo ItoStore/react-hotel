@@ -6,7 +6,7 @@ import Customers from '../../components/Customers';
 import Footer from '../../components/Footer';
 
 const HomePage = () => {
-    return (
+    return ( 
         <>
             <Navbar />
             <Header />

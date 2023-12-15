@@ -15,7 +15,7 @@ export const getRoomNameByType = (roomType) => {
             break;
         default:
             roomName = 'Common Room';
-            break;
+            break; 
     }
     return roomName;
 };

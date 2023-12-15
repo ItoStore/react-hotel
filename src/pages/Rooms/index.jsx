@@ -10,7 +10,7 @@ const RoomsPage = () => {
     const changeSearchHandler = (e) => {
         setSerachValue(e.target.value);
     };
-    return (
+    return ( 
         <>
             <Navbar />
             <section className="rooms">
