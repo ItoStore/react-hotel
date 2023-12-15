@@ -12,7 +12,7 @@ export const HOTELDATA = [
         title: 'Tel: +123 456 789',
     },
 ];
-
+ 
 export const NAVLINKLIST = [
     {
         path: '/',

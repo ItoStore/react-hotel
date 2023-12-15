@@ -11,8 +11,8 @@ import './about.scss';
 
 const AboutUsPage = () => {
     return (
-        <>
-            <Navbar />
+        <> 
+            <Navbar /> 
             <section className="about-us-page">
                 <div className="content-wrapper">
                     <div className="about-us-page-content">

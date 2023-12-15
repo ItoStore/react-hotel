@@ -9,7 +9,7 @@ import gallery5 from '../../img/gallery-img-5.jpeg';
 import gallery6 from '../../img/gallery-img-6.jpeg';
 
 const Footer = () => {
-    return (
+    return ( 
         <footer className="footer">
             <div className="main-part">
                 <div className="footer-list-wrapper">
