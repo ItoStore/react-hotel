@@ -29,7 +29,7 @@ const AboutUsPage = () => {
                             laborum consequat Lorem officia laboris nostrud id pariatur. Nulla in
                             sit ut ea sunt cupidatat Lorem id anim voluptate laborum culpa excepteur
                             nulla. In voluptate excepteur reprehenderit labore. Dolor quis ex
-                            laboris nostrud tempor ut eu ut ex exercitation Lorem ipsum elit irure.
+                            laboris nostrud tempor ut eu ut ex exercitation Lorem ipsum elit irure. 
                             Aute nulla labore eu proident esse fugiat eu laboris veniam fugiat.
                             Commodo ullamco ipsum cillum irure enim ea consequat voluptate nostrud
                             dolor enim. Minim incididunt culpa quis aute fugiat ipsum. Aute non

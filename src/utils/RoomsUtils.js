@@ -21,4 +21,4 @@ export const getRoomNameByType = (roomType) => {
 };
 export const castPriceToTemplate = (roomPrice) => {
     return roomPrice.toFixed(2);
-};
+}; 

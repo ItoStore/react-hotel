@@ -4,7 +4,7 @@ import secondImg from '../../img/about-us-img-2.jpeg';
 import thirdImg from '../../img/about-us-img-3.jpeg';
 import fourthImg from '../../img/about-us-img-4.jpeg';
 
-const AboutUs = () => {  
+const AboutUs = () => {   
     const navigate = useNavigate();
     return (
         <section className="about-us">
