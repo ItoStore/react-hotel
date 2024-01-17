@@ -21,7 +21,7 @@ const Navigation = () => {
             </div>
             <ul className="navigation-list">
                 {NAVLINKLIST.map((link) => (
-                    <li className="navigation-item">
+                    <li className="navigation-item"> 
                         <Link to={link.path} className="navigation-link">
                             {link.name}
                         </Link>

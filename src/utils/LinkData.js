@@ -26,7 +26,7 @@ export const NAVLINKLIST = [
         path: '/rooms',
         name: 'rooms',
     },
-    {
+    { 
         path: '/events',
         name: 'events',
     },

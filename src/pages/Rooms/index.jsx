@@ -26,7 +26,7 @@ const RoomsPage = () => {
                         type="text"
                         name="search"
                         value={serachValue}
-                        onChange={changeSearchHandler}
+                        onChange={changeSearchHandler} 
                     />
                     <div className="svg-wrapper">
                         <svg

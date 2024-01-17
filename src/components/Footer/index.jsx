@@ -14,7 +14,7 @@ const Footer = () => {
             <div className="main-part">
                 <div className="footer-list-wrapper">
                     <h3 className="footer-heading">React Hotel</h3>
-                    <ul className="footer-list">
+                     <ul className="footer-list">
                         {HOTELDATA.map((link) => (
                             <li className="footer-list-item">
                                 <a to={link.url} className="footer-list-link">

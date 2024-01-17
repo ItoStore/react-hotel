@@ -28,3 +28,4 @@ export const ROOMSDATA = [
         price: 399,
     },
 ];
+ 

@@ -26,7 +26,7 @@ const Sidebar = () => {
                 <li>
                     <a href="https://t.me/Svyat3301" className="social-link">
                         <i className="fa-brands fa-telegram"></i>
-                    </a>
+                    </a> 
                 </li>
                 <li>
                     <a

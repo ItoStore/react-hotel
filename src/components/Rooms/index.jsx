@@ -20,7 +20,7 @@ const Rooms = () => {
                 <div className="room-card">
                     <img src={singleRoomImg} alt="room" className="room-img" />
                     <div className="room-card-content">
-                        <h4 className="room-card-heading">Single Room</h4>
+                        <h4 className="room-card-heading">Single Room</h4> 
                         <p className="room-card-paragraph">
                             Lorem in pariatur id enim ad labore velit irure proident incididunt ut
                             qui nisi est. Lorem elit amet aliqua anim eiusmod ipsum velit pariatur

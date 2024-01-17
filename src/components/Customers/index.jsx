@@ -5,7 +5,7 @@ import customer1 from '../../img/customer-1.jpeg';
 const Customers = () => {
     const navigate = useNavigate();
     return (
-        <section className="customers">
+        <section className="customers">   
             <div className="common-header">
                 <h1 className="common-heading">Our Customers</h1>
                 <div className="underline">
